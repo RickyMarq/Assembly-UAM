@@ -12,7 +12,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#solucao">Solução</a> • 
- <a href="#autor">Autor</a> •
+ <a href="#autor">Autor</a>
 </p>
 
 ### ✅ Objetivo
@@ -38,6 +38,3 @@ Que por sua vez possui:
 - Unidade de Controle
 - Unidade de Armazenamento (Ram, Cache etc atualmente)
 
-### 🛠 Métodos
-
-Para realizar a conta no simulador foi utilizado os métodos 
